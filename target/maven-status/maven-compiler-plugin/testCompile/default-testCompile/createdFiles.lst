@@ -1,0 +1,4 @@
+com\MLWallet\Tests\Logout_Tests.class
+com\MLWallet\Tests\BaseTest.class
+com\MLWallet\Tests\Home_Tests.class
+com\MLWallet\Tests\Login_Tests.class
